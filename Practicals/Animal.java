@@ -1,40 +1,19 @@
-package corejava;
+package sample;
 
-class Animal
-{
-	//method
-	public void display()
-	{
-		System.out.println("Inside parent class");
+public abstract class Animal {
+	protected int age;
+
+	public Animal(int age) {
+		super();
+		this.age = age;
 	}
 
+	public int getAge() {
+		return age;
+	}
 
-}
-//child class
-class Dog extends Animal
-{
-	public void sound()
-	{
-		System.out.println("Barks......!");
-	
+	public void setAge(int age) {
+		this.age = age;
 	}
+		
 }
-class puppy extends Dog
-{
-	public void run()
-	{
-		System.out.println("He runs by small steps...");
-	}
-}
-class Tester
-{
-	public static void main(String[] args)
-	{
-		//creating object of child class
-		puppy d=new puppy();
-		d.display();
-		d.sound();
-		d.run();
-	}
-}
-
