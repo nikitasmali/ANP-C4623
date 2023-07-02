@@ -1,0 +1,52 @@
+Good Evening...!
+Thank you for giving me this opportunity to introduce myself.
+My name is Nikita Mali. I am from Tuljapur.
+Currently I am pursuing my btech degree in computer science from Shri tuljabhavani college of engineering,tuljapur.
+DBatu UNiversity.
+my last semester CGPA is 8.51.
+I completed my 12th in Shripatrao bhosale high school,Osmanabad with 63.23%
+and I completed my 10th in Maharashtra vidyalaya ,Latur with 81.60%.
+My hobbies are writing,travelling.
+ I have good knowledge to convince the people.
+ I am good in speaking,and my friendly nature.
+ I also have skills like leadership,patience.
+My strength is that I am honest ,patient and hard working.
+My weakness is that I multitask too much.I usually give myself a hard time 
+and deadline to finish work.
+
+I am from tuljapur whose district is dharashiv. tuljapur is famous for Tuljabhavani temple. 
+
+My Project Name is The Sassy App. 
+It is An android application which comprises various safety measures 
+which can be used by women with a few clicks on the screen, to get quick and 
+easy access to help or to avoid harmful situations. One of the IMP features is 
+that in difficult crises, if the user cannot access the mobile phone, in that 
+situation the user can activate the emergency services with the module 
+provided by us, which will activate the emergency service at once. For the 
+activation, we provide the switch from different accessories like Handbag, 
+Purse, Rings with switch (Upcoming), etc. 
+ 
+   Features: 
+• Sends emergency alerts 
+• Profile management page 
+• Location sharing feature 
+• Innovation feature 
+• Technical support 
+• Activation 
+ 
+Software Requirement: 
+o Platform:- Android Studio(For App), IOS(upcoming),Arduino(For Hardware        
+Connection) 
+o Programming language:- JAVA(For App),C++(For Hardware) 
+  
+ Hardware Requirement: 
+o Esp8266 it is an circuit. the programming we done is uing this circuit.
+o Battery 12 volt dc direct current 
+o Switch 
+
+for notificatio we used firebase
+firebase an cloud base message sharing platform ahe which is developed by google 
+when we press the switch the signal go to server then server to firebase and firebase will notify to all devices.
+
+I am from tuljapur whose district is dharashiv. tuljapur is famous for Tuljabhavani temple. 
+https://www.cheggindia.com/career-guidance/hr-interview-questions-for-freshers-with-answer/#h-would-you-be-willing-to-work-overtime-during-nights-and-sometimes-on-weekends
